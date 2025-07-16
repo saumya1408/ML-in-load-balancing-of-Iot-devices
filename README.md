@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Status-Complete-success" alt="Status">
 </p>
 
+<p align="center">
+  <img src="https://github.com/saumya1408/ML-in-load-balancing-of-Iot-devices/raw/main/output_ss/Screenshot%20(302).png" alt="Project Visualization" width="800">
+</p>
+
 ## ✨ Overview
 This project implements machine learning models to optimize task allocation between IoT devices and cloud servers. By analyzing various device and task parameters, the system intelligently decides whether to process tasks locally on IoT devices or offload them to the cloud, aiming to minimize latency, energy consumption, and computational costs.
 
