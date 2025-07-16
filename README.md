@@ -13,6 +13,12 @@
 ## ✨ Overview
 This project implements machine learning models to optimize task allocation between IoT devices and cloud servers. By analyzing various device and task parameters, the system intelligently decides whether to process tasks locally on IoT devices or offload them to the cloud, aiming to minimize latency, energy consumption, and computational costs.
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1U684ltPzbTAkvoQgwYZxwCuHyAo3YZ6l/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/🎥-Watch Demo-red?style=for-the-badge&logo=youtube" alt="Watch Demo" />
+  </a>
+</p>
+
 ## 📊 Key Features
 - **Multi-device Support**: Handles various IoT devices with different capabilities (Raspberry Pi, Arduino, ESP32, etc.)
 - **Machine Learning Models**: Implements multiple ML algorithms for optimal task allocation
